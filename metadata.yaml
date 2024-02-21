@@ -1,11 +1,16 @@
 _repo: Warships-and-their-story_72817
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72817-h/images/cover.jpg
 creator:
   author:
     agent_name: Fletcher, Richard A.
     gutenberg_agent_id: '56819'
     url: http://www.gutenberg.org/2009/agents/56819
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72817#Warships-and-their-story
 gutenberg_issued: '2024-01-29'
 gutenberg_type: Text
 identifiers:
